@@ -1,0 +1,11 @@
+<?php include_once('header.php'); ?>
+
+    <div class="main">
+        <h2>
+            this is about page
+        </h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae cumque dolorum esse aperiam possimus assumenda, omnis in maxime quasi accusamus! Temporibus repellat beatae, excepturi, nulla similique facere reprehenderit tempora molestiae quidem nesciunt impedit iusto nemo architecto illo repellendus dolores itaque accusamus suscipit explicabo hic unde? Inventore rerum aliquid, non dolor alias minima molestiae ipsum, ad in atque veniam deserunt illum animi dolorem ullam maxime? Nemo quo dolore voluptatibus labore error facilis maiores quis neque. Totam sed ab voluptatibus voluptatum tempora quis sit ullam autem sequi ex maiores ut, qui magnam nostrum magni fuga sapiente similique, error reprehenderit doloremque expedita quos?</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci doloribus dolores optio vero tenetur eos natus. Unde atque sequi veniam? Sit inventore sunt nostrum nihil iusto quod sint quos, cupiditate odio ratione, reprehenderit nesciunt repellat expedita et id dignissimos, temporibus quia? Pariatur, non, omnis exercitationem enim culpa eum temporibus eaque harum laborum odit qui possimus voluptatibus rem sed assumenda quidem consequuntur eos consectetur debitis accusantium magnam at. Optio possimus ab dolores iste id fuga, aliquam blanditiis labore fugiat repudiandae delectus quos, doloribus porro culpa, magni libero ullam. Ex rem a quo sit reprehenderit, commodi doloribus fuga tempore eveniet earum. A, dolore sequi id quos placeat maxime voluptates velit perspiciatis commodi, laudantium dolorum quas impedit accusamus obcaecati ipsa alias voluptatum accusantium quo sunt beatae eum. Assumenda sint aspernatur quam dicta iure? Dignissimos quisquam deleniti et unde itaque, eius id totam architecto reiciendis dicta quae, dolor quasi earum odit eum ipsum eos?</p>
+    </div>
+
+<?php include_once('footer.php'); ?>
